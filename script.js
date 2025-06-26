@@ -33,16 +33,16 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-    // typing text animation script - UPDATED TO MATCH RESUME
+    // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Operations Professional", "Team Lead", "Business Analyst"],
+        strings: ["Business Analyst", "Human Resource"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Operations Professional", "Team Lead", "Business Analyst"],
+        strings: ["Business Analyst", "Human Resource"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
